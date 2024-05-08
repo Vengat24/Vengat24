@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vengat24
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Java Full Stack
-- 📫 How to reach me -> vengatsrini2410@gmail.com
+- 📫 Reach me -> vengatsrini2410@gmail.com
 
 <!---
 Vengat24/Vengat24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
